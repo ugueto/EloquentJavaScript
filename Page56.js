@@ -39,3 +39,4 @@ const countChar = (str, letter) => {
 const countBs = str => {
     return countChar(str, "B");
 }
+
